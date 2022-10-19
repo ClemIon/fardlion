@@ -1,6 +1,6 @@
--  Hi, I’m @fardlion
--  I’m interested in tinkering, learning, & pen testing
--  I’m currently learning the basics
+-  Hi, I’m @fardlion.
+-  I’m interested in tinkering, learning, & increasing productivity at work.
+-  I’m currently learning the basics.
 
 
 <!---
