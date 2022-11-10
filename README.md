@@ -1,6 +1,5 @@
 -  Hi, I’m @fardlion.
--  I’m interested in tinkering, learning, & increasing productivity at work.
--  I’m currently learning the basics.
+-  I’m interested in tinkering, learning, increasing work productivity, & cybersecurity
 
 
 <!---
